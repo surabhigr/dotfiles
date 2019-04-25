@@ -1,6 +1,9 @@
-# holman does dotfiles
+# surabee does dotfiles
 
-Your dotfiles are how you personalize your system. These are mine.
+
+![](https://cdn-images-1.medium.com/max/2600/1*ayVl2ie6CS0Flqr8TxoYgQ.png)
+
+Your dotfiles are how you personalize your system. These are mine (derived from holman).
 
 I was a little tired of having long alias files and everything strewn about
 (which is extremely common on other dotfiles projects, too). That led to this
